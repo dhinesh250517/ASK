@@ -1,11 +1,11 @@
-#ASK
-##Aim
+# ASK
+## Aim
 Write a Python program for the modulation and demodulation of ASK.
 
-##Tools required
+## Tools required
 Python IDE with Numpy and Scipy Google colab software
 
-##Program
+## Program
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -54,9 +54,10 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-##Output Waveform
+## Output Waveform
 ![image](https://github.com/user-attachments/assets/e93b0ba8-a448-4df8-b6ec-04cf7c3573a7)
-##result
+
+## result
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
 
 The ASK waveform was observed, where carrier presence represents '1' and absence represents '0'.
